@@ -1,0 +1,1 @@
+{"ssl":false,"host":"database-1.cqumguvg0gsj.us-east-1.rds.amazonaws.com","port":5432,"schema":"public","database":"postgres","password":"nisha123","ssl_mode":{"mode":"disable"},"username":"postgres","tunnel_method":{"tunnel_method":"NO_TUNNEL"}}
